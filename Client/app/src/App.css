@@ -1,0 +1,33 @@
+.Sss{
+  top: 0px;
+  height: 160%;
+  width: 100%;
+}
+
+.Hh{
+  position: absolute;
+  top: 250px;
+  left: 300px;
+  color: black;
+}
+
+.Inner{
+  position: relative;
+  height: 100%;
+  width: 100%;
+} 
+
+.Outer{
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  position: relative;
+  top: 50px;
+}
+
+.Llogin{
+  position: relative;
+  top: 100px;
+}

@@ -1,0 +1,28 @@
+.card-img{
+  height: 400px;  
+  width: 1600px;
+
+}
+.card-img-overlay{
+    color: aliceblue;
+}
+
+.form-control-lg{
+    position: relative;
+    top: 200px;
+}
+
+.Qq{
+    position: relative;
+    width: 70%;
+    left: 10%;
+}
+/* .btn{
+    position: relative;
+    top: 150px;
+    left: 102%;
+} */
+/* .kk{
+    position: relative;
+    bottom: 40px;
+} */

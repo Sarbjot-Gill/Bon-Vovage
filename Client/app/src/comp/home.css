@@ -1,0 +1,42 @@
+img {
+    height: 50%;
+    width: 100%;
+}
+.Xxx{
+    background-color: whitesmoke;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    height: 500px;
+    width: 500px;
+}
+/* button {
+    position: relative;
+    top: 10x;
+} */
+
+.zz{
+    position: relative;
+    top: 100px;
+}
+
+h3 {
+    position: relative;
+    top: 30px;
+}
+
+.ez{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+    color: Brown;
+    /* font-size:larger; */
+}
+.oooo{
+    position: relative;
+    top: 50px;
+}
+.oo{
+    position: relative;
+    top:100px
+}

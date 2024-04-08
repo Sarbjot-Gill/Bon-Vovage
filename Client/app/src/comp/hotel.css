@@ -1,0 +1,44 @@
+.card-img-top{
+    height: 300px;
+   
+}
+.card-img{
+    height: 500px;
+}
+
+
+.photo{
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.hea{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.mnm{
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+
+#ttt{
+    position: absolute;
+    top: 210px;
+    right: 200px;
+}
+
+#www{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 1100px;
+}
+
+.row{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
